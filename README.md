@@ -1,4 +1,4 @@
-# projekt4
+# project-weather
 
 ## Project setup
 ```
